@@ -46,7 +46,7 @@ def jalan(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
 		sys.stdout.flush()
-		time.sleep(0.0001)
+		time.sleep(0.001)
 
 #Dev:love_hacker
 ##### LOGO #####
@@ -184,7 +184,7 @@ jalan("░░██▓▓██")
 jalan("░░██▓▓██")
 jalan("░░██▓▓██")
 jalan("░░██▓▓██")
-jalan("░  ██▓▓██")
+jalan("░██▓▓██")
 jalan("░░██▓▓██")
 jalan("░░░██▓▓███")
 jalan("░░░░██▓▓████")
